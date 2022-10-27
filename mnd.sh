@@ -3,6 +3,8 @@
 while true
 do
 
+curl -s https://raw.githubusercontent.com/muhamad-ramadhani/logo/main/logo | bash
+
 # Menu
 
 PS3='Select an action: '
